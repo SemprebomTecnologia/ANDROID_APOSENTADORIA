@@ -1,17 +1,22 @@
 package com.example.aposentadoria
 
+
+
+import android.os.Build
 import android.os.Bundle
-import androidx.activity.ComponentActivity
-import androidx.activity.enableEdgeToEdge
 import android.widget.ArrayAdapter
 import android.widget.Button
 import android.widget.EditText
 import android.widget.Spinner
 import android.widget.TextView
+import androidx.activity.ComponentActivity
+import androidx.activity.enableEdgeToEdge
+import androidx.annotation.RequiresApi
 
 
 
 class MainActivity : ComponentActivity() {
+    @RequiresApi(Build.VERSION_CODES.Q)
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
@@ -29,36 +34,38 @@ class MainActivity : ComponentActivity() {
                 android.R.layout.simple_spinner_dropdown_item,
                 listOf(" ","MASCULINO", "FEMININO")
             )
-        //obtendo a instancia do botao CALCULAR
-        val btn_ok = findViewById<Button>(R.id.button2)
 
         //obtendo a idade  e a instancia
-        var age =  findViewById<EditText>(R.id.editTextText3)
-
+        val Edt_age     =  findViewById<EditText>(R.id.editTextText3)
         //obtendo a instancia DO RESULTADO da textViwiew para o Resultado
         var txt_res = findViewById<TextView>(R.id.textViewResult)
 
+        //obtendo a instancia do botao CALCULAR
+        val btn_ok = findViewById<Button>(R.id.button2)
         //informo ao sistema o que deve ser feito quando clicar no botao calcular
         btn_ok.setOnClickListener() {
-            //variável para guardar o resultado do cálculo
-            var resultado: Int = 0
+            //variáveis para guardar os  dados digitados e resultados
 
-
-
-            if (spn_sexo.selectedItem == "MASCULINO" ){
+            var Nome : String = edt_nome.text.toString()
+            var Age : Int     =  Edt_age.text.toString().toInt()   //Integer.valueOf(Edt_age.text.toString())
+            var calc :Int     =  0
+            var resultado : Int = 0
+            //executa o calcula da aposentadoria
+            if (spn_sexo.selectedItem == "MASCULINO" ) {
                 //efetuar cálculo para homem
-                resultado = 65 - age.toString().toInt()
+                calc = (65 - Age )
+                resultado = calc.toString().toInt()
             }
-
             if(spn_sexo.selectedItem == "FEMININO"){
                 //efetuar cálculo para mulher
-                resultado = 60 - age.toString().toInt()
+                calc  = ( 60 - Age )
+                resultado = calc.toString().toInt()
             }
 
             //txt_res.text = resultado.toInt().toString()
-
             //Atualizando a tela de acordo com o resultado do cálculo
-            txt_res.text = "Faltam $resultado dias para sua aposentadoria chegar os dias "
+            txt_res.text = "Ola, $Nome faltam apenas $resultado anos" +
+                    " para chega o dia de sua aposentadoria !!! "
 
 
         }
