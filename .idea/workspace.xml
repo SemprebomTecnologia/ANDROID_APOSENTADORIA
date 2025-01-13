@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+    <layouts>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+        <config>
+          <theme>@style/Theme.APOSENTADORIA</theme>
+        </config>
+      </layout>
+    </layouts>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="056aa244-ba2b-4c82-8486-b1266f3d9a3f" name="Changes" comment="COMMIT START&#10;LAYOUT &#10;MAIN&#10;BUTTON CLICK&#10;RESULT CALC&#10;RESULT DETAILS&#10;FINISH PROGRAM 12/01/2025 18:30&#10;&#10;MATHEUS FREIRE - MARINGA -PR&#10;matheusfreire.ti@hotmail.com&#10;44 9 9816-8719" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="APOSENTADORIA" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="APOSENTADORIA" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="APOSENTADORIA" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="APOSENTADORIA" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile_vertical" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SemprebomTecnologia&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SemprebomTecnologia/ANDROID_APOSENTADORIA.git&quot;,
+    &quot;accountId&quot;: &quot;6109ab1d-7f9f-4579-af6e-030c216b5f50&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/app/src/main/java/com/example/aposentadoria/MainActivity.kt" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2rMmSKvslxLe2LdIiodJHIkru3R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Android App.DEBUG.executor&quot;: &quot;Android Profiler Group#2&quot;,
+    &quot;Android App.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;Android App.app.executor&quot;: &quot;Debug&quot;,
+    &quot;DEBUGGABLE_DEVICE&quot;: &quot;Nexus_4_API_26 [emulator-5554]&quot;,
+    &quot;DEBUGGABLE_PROCESS&quot;: &quot;com.example.aposentadoria&quot;,
+    &quot;DEBUGGER_ID&quot;: &quot;Auto&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;SHOW_ALL_PROCESSES&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;com.google.services.firebase.aqiPopupShown&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.language.and.region&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false" singleton="true" nameIsGenerated="true">
+      <module name="APOSENTADORIA.app" />
+      <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="ALLOW_ASSUME_VERIFIED" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="RESTORE_ENABLED" value="false" />
+      <option name="RESTORE_FILE" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="System Trace" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="056aa244-ba2b-4c82-8486-b1266f3d9a3f" name="Changes" comment="" />
+      <created>1736377317369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736377317369</updated>
+    </task>
+    <task id="LOCAL-00001" summary="COMMIT START&#10;LAYOUT &#10;MAIN">
+      <option name="closed" value="true" />
+      <created>1736391032585</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736391032586</updated>
+    </task>
+    <task id="LOCAL-00002" summary="COMMIT START&#10;LAYOUT &#10;MAIN&#10;BUTTON">
+      <option name="closed" value="true" />
+      <created>1736459517140</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736459517140</updated>
+    </task>
+    <task id="LOCAL-00003" summary="COMMIT START&#10;LAYOUT &#10;MAIN&#10;BUTTON&#10;RESULT">
+      <option name="closed" value="true" />
+      <created>1736473444727</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1736473444727</updated>
+    </task>
+    <task id="LOCAL-00004" summary="COMMIT START&#10;LAYOUT &#10;MAIN&#10;BUTTON&#10;RESULT FINAL">
+      <option name="closed" value="true" />
+      <created>1736538747505</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1736538747505</updated>
+    </task>
+    <task id="LOCAL-00005" summary="COMMIT START&#10;LAYOUT &#10;MAIN&#10;BUTTON&#10;RESULT FINAL">
+      <option name="closed" value="true" />
+      <created>1736538780212</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1736538780212</updated>
+    </task>
+    <task id="LOCAL-00006" summary="COMMIT START&#10;LAYOUT &#10;MAIN&#10;BUTTON CLICK&#10;RESULT CALC&#10;RESULT DETAILS&#10;FINISH PROGRAM 12/01/2025 18:30&#10;&#10;MATHEUS FREIRE - MARINGA -PR&#10;matheusfreire.ti@hotmail.com&#10;44 9 9816-8719">
+      <option name="closed" value="true" />
+      <created>1736717282652</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1736717282652</updated>
+    </task>
+    <task id="LOCAL-00007" summary="COMMIT START&#10;LAYOUT &#10;MAIN&#10;BUTTON CLICK&#10;RESULT CALC&#10;RESULT DETAILS&#10;FINISH PROGRAM 12/01/2025 18:30&#10;&#10;MATHEUS FREIRE - MARINGA -PR&#10;matheusfreire.ti@hotmail.com&#10;44 9 9816-8719">
+      <option name="closed" value="true" />
+      <created>1736717324520</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1736717324520</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="COMMIT START&#10;LAYOUT &#10;MAIN" />
+    <MESSAGE value="COMMIT START&#10;LAYOUT &#10;MAIN&#10;BUTTON" />
+    <MESSAGE value="COMMIT START&#10;LAYOUT &#10;MAIN&#10;BUTTON&#10;RESULT" />
+    <MESSAGE value="COMMIT START&#10;LAYOUT &#10;MAIN&#10;BUTTON&#10;RESULT FINAL" />
+    <MESSAGE value="COMMIT START&#10;LAYOUT &#10;MAIN&#10;BUTTON CLICK&#10;RESULT CALC&#10;RESULT DETAILS&#10;FINISH PROGRAM 12/01/2025 18:30&#10;&#10;MATHEUS FREIRE - MARINGA -PR&#10;matheusfreire.ti@hotmail.com&#10;44 9 9816-8719" />
+    <option name="LAST_COMMIT_MESSAGE" value="COMMIT START&#10;LAYOUT &#10;MAIN&#10;BUTTON CLICK&#10;RESULT CALC&#10;RESULT DETAILS&#10;FINISH PROGRAM 12/01/2025 18:30&#10;&#10;MATHEUS FREIRE - MARINGA -PR&#10;matheusfreire.ti@hotmail.com&#10;44 9 9816-8719" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NumberFormatException" package="java.lang" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Detect Automatically (4815)">
+        <watch expression="resultado" language="JAVA" />
+        <watch expression="age" language="JAVA" />
+        <watch expression="spn_sexo" language="JAVA" />
+        <watch expression="edt_nome" language="JAVA" />
+        <watch expression="TimeDatumDependentDuration" language="JAVA" custom="groovy.time.TimeDatumDependentDuration" />
+        <watch expression="idade" language="JAVA" />
+      </configuration>
+      <configuration name="Detect Automatically (1828)">
+        <watch expression="Idade" language="JAVA" />
+        <watch expression="Nome" language="JAVA" />
+      </configuration>
+      <configuration name="Detect Automatically (2286)">
+        <watch expression="spn_sexo" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="play_dynamic_filters_status">
+    <option name="appIdToCheckInfo">
+      <map>
+        <entry key="com.example.aposentadoria">
+          <value>
+            <CheckInfo lastCheckTimestamp="1736625754624" />
+          </value>
+        </entry>
+        <entry key="com.example.aposentadoria.test">
+          <value>
+            <CheckInfo lastCheckTimestamp="1736625754624" />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
